@@ -1,6 +1,6 @@
 # 538
 
-**Who Keeps the Money you Found on the Floor?:
+**Who Keeps the Money you Found on the Floor?:**
 http://fivethirtyeight.com/features/who-keeps-the-money-you-found-on-the-floor/
 
 
